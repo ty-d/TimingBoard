@@ -1,0 +1,3 @@
+.vscode/.cortex*
+.vscode/*.log
+build/*
